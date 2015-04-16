@@ -1,0 +1,1 @@
+This is the repository for class materials used in the hands-on IoT project for the Spring IoT course at Cal Poly
